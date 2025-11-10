@@ -27,5 +27,9 @@ claude
 Anthropic
 
 github
+开源项目
 copilot
 AI编程
+
+国联人寿
+国联集团
